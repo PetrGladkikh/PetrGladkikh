@@ -11,8 +11,9 @@
 Считаю, что тестировщику необходимо постоянно совершенствоваться в работе, в том числе осваивая смежные навыки. Так, за время работы изучил верстку на HTML/CSS (на уровне достаточном для общения с разработчиками). Также начал изучать автоматизацию тестирования.
 В настоящее время (октябрь 2024) заврешаю обучение на курсе функционального тестирования Артема Русова.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@peter-gladkikh-55662a202-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/peter-gladkikh) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:muzichello@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@peter-gladkikh-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/peter-gladkikh-55662a202/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:muzichello@gmail.com)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
 ---
 
 ### Тестовые артефакты/Testing Artefacts
