@@ -26,14 +26,14 @@
 ---
 
 ### Тестовые артефакты/Testing Artefacts
-[Тестирование интернет-магазина](https://github.com/PetrGladkikh/web)
-REST and SOAP API testing via Postman
-MySQL
-MongoDB
-Android app testing
-Replacing data with CharlesProxy
-Bash
-Git
+- [Тестирование интернет-магазина](https://github.com/PetrGladkikh/web)
+- [Тестирование REST и SOAP API в Postman](https://github.com/PetrGladkikh/api)
+- MySQL
+- MongoDB
+- Android app testing
+- Replacing data with CharlesProxy
+- Bash
+- Git
 
 ### 🤝 Социальные сети:
 
