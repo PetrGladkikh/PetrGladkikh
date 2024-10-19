@@ -15,13 +15,13 @@
 
 ### В работе использую следующие девайсы, технологии и приложения:
 
-• Мобильные и десктопные устройства: MacBook Pro (MacOS Ventura), iPhone SE и iPad 9.7 (iOS), ноутбук на Windows, Huawei Y9 (Android).
-• Для эмуляции устройств под управлением MacOS и iOS использую Parallels и XCode.
-• Для эмуляции прочих устройств использую Lambdatest и BrowserStack.
-• Chrome DevTools, особенно вкладка Network.
-• Figma.
-• Расширение PerfectPixel для Chrome.
-• Системы ClickUp, Jira и Confluence.
+- Мобильные и десктопные устройства: MacBook Pro (MacOS Ventura), iPhone SE и iPad 9.7 (iOS), ноутбук на Windows, Huawei Y9 (Android).
+- Для эмуляции устройств под управлением MacOS и iOS использую Parallels и XCode.
+- Для эмуляции прочих устройств использую Lambdatest и BrowserStack.
+- Chrome DevTools, особенно вкладка Network.
+- Figma.
+- Расширение PerfectPixel для Chrome.
+- Системы ClickUp, Jira и Confluence.
 
 ---
 
