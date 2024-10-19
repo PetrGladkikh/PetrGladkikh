@@ -30,22 +30,20 @@
 ---
 
 ### Тестовые артефакты/Testing Artefacts
-- [Тестирование интернет-магазина](https://github.com/PetrGladkikh/web)
+- [Тестирование интернет-магазина, изменение трафика в Charles Proxy](https://github.com/PetrGladkikh/web)
 - [Тестирование REST и SOAP API в Postman](https://github.com/PetrGladkikh/api)
-- MySQL
-- MongoDB
-- Android app testing
-- Replacing data with CharlesProxy
-- Bash
-- Git
+- [Работа с SQL и MongoDB для тестирования](https://github.com/PetrGladkikh/database)
+- [Тестирование мобильного приложения Android](https://github.com/PetrGladkikh/mobile)
+- [Работа с bash и git](https://github.com/PetrGladkikh/git_bash)
+
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/peter-gladkikh-55662a202/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/UnclePetyan" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
