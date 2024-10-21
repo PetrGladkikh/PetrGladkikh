@@ -26,6 +26,7 @@
 - Figma.
 - Расширение PerfectPixel для Chrome.
 - Системы ClickUp, Jira и Confluence.
+- Youtrack и QASE для ведения тестовой документации.
 
 ---
 
